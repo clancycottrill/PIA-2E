@@ -5,15 +5,20 @@ Este repositorio contiene los 2 módulos correspondientes al segundo entregable 
 
 Contiene los siguientes módulos:
 
-Port_Scan
+1. PortScan
+2. HoneypotCreation
 
 
-En cuánto a las funciones individuales de los módulos:
+En cuanto a las funciones individuales de los módulos:
 
-Port_Scan: Escanea los puertos de la dirección IP que indique el usuario, así como un rango de puertos. Se le da la opción adicional al usuario de mandar los resultados a un archivo txt.
+PortScan: Escanea los puertos de la dirección IP que indique el usuario, así como un rango de puertos. Se le da la opción adicional al usuario de mandar los resultados a un archivo txt.
 
-Realizado en conjunto por el equipo 5.
+HoneypotCreation: Inicia una honeypot en el puerto indicado por el usuario, así como imprimir en la consola un reporte con cualquier intento de conexión al honeypot. Adicionalmente, se le da la opción al usuario de reiniciar el honeypot con otros puertos.
+
+Realizado en conjunto por el equipo 5:
 
 Santiago B.
+
 Chris T.
+
 Alexander T.
